@@ -1,0 +1,30 @@
+body {
+    background-image: url("https://64.media.tumblr.com/d4411ae0a03a3bbd9c51e9206557ec50/a84bbe8c5afd316b-19/s1280x1920/f01fb6ad3a999aadacb843c7f909d57220d833c2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  form {
+    text-align: center;
+  }
+
+.center-text {
+text-align: center;
+}
+
+h1 {
+color: rgba(243, 85, 159, 0.596);
+font-size: 44px;
+text-align: center;
+font-style: normal;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+form {
+    text-align: center;
+font-size: 24px;
+font-style: normal;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: rgb(0, 0, 0);
+}
