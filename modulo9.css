@@ -13,18 +13,44 @@ text-align: center;
 }
 
 h1 {
-color: rgba(243, 85, 159, 0.596);
-font-size: 44px;
+  color: rgba(119, 85, 243, 0.596);
+  font-size: 35px;
+  text-align: center;
+  font-style: normal;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+H2 {
+  text-align: center;
+  font-size: 25px;
+  font-style: normal;
+  color: aliceblue;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: rgb(231, 136, 229);
+}
+ul {
+  color: rgba(119, 85, 243, 0.596);
+  font-size: 25px;
+  text-align: center;
+  font-style: normal;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+form {
+text-align: center;
+font-size: 24px;
+font-style: normal;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.completed-task {
+text-decoration: line-through;
+color: rgba(119, 85, 243, 0.596);
+font-size: 25px;
 text-align: center;
 font-style: normal;
 -webkit-text-stroke-width: 1px;
 -webkit-text-stroke-color: rgb(0, 0, 0);
 }
 
-form {
-    text-align: center;
-font-size: 24px;
-font-style: normal;
--webkit-text-stroke-width: 1px;
--webkit-text-stroke-color: rgb(0, 0, 0);
-}
